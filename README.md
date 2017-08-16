@@ -1,4 +1,15 @@
 # choo-starter-app
 A basic starter app for playing around with [choo](https://choo.io) on [glitch](https://glitch.com).
 
-Since `package.json` has a `script` called `start`, glitch will run this app automatically. But if you're running this locally, you'll want to do the same thing by running `npm start` after you install dependencies via `npm install`.
+First, click the `Remix this` button on the glitch interface to make a copy of this project
+that you can edit.
+
+## Files
+- `index.js` The entry point for the application; where the code lives.
+- `index.html` The HTML file used to serve the application
+- `package.json` The configuration file listing the npm packages this application depends on and the command line `start` script used by glitch to run this application.
+
+## Running locally
+If you prefer to use your own editor, you can clone [this project from GitHub](https://github.com/timwis/choo-starter-app).
+Install dependencies by navigating to the directory in your terminal and running `npm install`.
+Then run the application using `npm start`.
