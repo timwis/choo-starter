@@ -1,4 +1,4 @@
-# choo-starter-app
+# choo-starter
 A basic starter app for playing around with [choo](https://choo.io) on [glitch](https://glitch.com).
 
 First, click the `Remix this` button on the glitch interface to make a copy of this project
