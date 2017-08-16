@@ -1,5 +1,5 @@
 # choo-starter
-A basic starter app for playing around with [choo](https://choo.io) on [glitch](https://glitch.com).
+A basic starter app for playing around with [choo](https://choo.io) on [glitch](https://glitch.com). Click the `Show (Live)` button in the header to see this app live.
 
 ## Files
 - `index.js` The entry point for the application; where the code lives.
