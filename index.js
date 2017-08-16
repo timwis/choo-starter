@@ -24,6 +24,7 @@ function view (state, emit) {
   }
 }
 
+app.use(require('choo-log')()) // just for debugging
 app.use(store)
 app.route('/', view)
 app.mount('body')
